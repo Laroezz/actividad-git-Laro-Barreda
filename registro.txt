@@ -3,4 +3,6 @@ Actividad de Git
 Autor: Laro Barreda
 
 Versión: 1 
-Hola este es el primer cambio
+
+Primer cambio: Linea 7 modificada
+Segundo cambio: Linea 8 modificada
