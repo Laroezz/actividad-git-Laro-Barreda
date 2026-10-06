@@ -12,3 +12,5 @@ Quinto cambio: Linea 11 modificada
 
 (Primer cambio desarrollo)
 (Segundo cambio en desarrollo)
+
+“Modificación realizada desde GitHub”
